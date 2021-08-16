@@ -1,2 +1,2 @@
 # WebScraping
-Some webscraping codes
+Some webscraping codes to grab Tickers from internet.
